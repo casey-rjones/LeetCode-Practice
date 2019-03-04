@@ -1,4 +1,4 @@
- #
+ ########################################################
  # toLowerCase.py
  #
  # Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase.
@@ -17,6 +17,8 @@
  # Input: "love"
  # Output: "love"
  #
+ # runtime of O(n)
+ ########################################################
 
 class Solution(object):
     def toLowerCase(self, str):
